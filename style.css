@@ -58,6 +58,7 @@ body {
 
 .pointer {
   background-color: white;
+  border: #010f1c 2px solid;
   border-radius: 50%;
   height: 20px;
   width: 20px;
